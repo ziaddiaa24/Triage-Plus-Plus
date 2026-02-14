@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+venv312/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Wheels
+wheels/
+
+# VS Code
+.vscode/
+
+# Env files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
